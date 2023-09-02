@@ -45,6 +45,8 @@
             "colorScheme": "Campbell",
             "cursorHeight": 20,
             "cursorShape": "vintage",
+            "elevate": true,
+            "experimental.retroTerminalEffect": false,
             "font": 
             {
                 "face": "FiraCode Nerd Font Mono",
